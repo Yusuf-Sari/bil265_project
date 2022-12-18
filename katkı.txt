@@ -1,0 +1,3 @@
+Yusuf Sarı: Toplama yöntemlerinin ve testbench lerinin kodlarını ve raporun toplama yöntemleriyle ilgili kısımlarını yazdı.
+
+Ferhat Yılmaz: UART işlemlerinin kodlarını ve top modulün kodunu yazdı.
