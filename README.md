@@ -1,3 +1,3 @@
-# bil265_project
+# BİL265_PROJECT
 
-36 numaralı gruptan Yusuf Sarı ve Ferhat Yılmaz olarak projeyi yaptık.
+Implementing and comparing different methods of adding numbers on Basys3 FPGA
